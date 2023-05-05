@@ -1,0 +1,21 @@
+.bg-img{
+    background-image: url("https://images.pexels.com/photos/4483610/pexels-photo-4483610.jpeg?cs=srgb&dl=warehouse-with-concrete-floors-4483610.jpg&fm=jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.barcode-card{
+    border: 2rem;
+    width: 15rem;
+    background-color: black;
+    margin-top: 3rem;
+    margin-left: 2rem;
+    justify-content: center;
+}
+
+/* 
+.bg-card{
+    background-color: rgb(101, 57, 26);
+    width: 35rem;
+}
